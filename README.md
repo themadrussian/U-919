@@ -15,7 +15,8 @@ a script will read the RUT-names.txt and display the contents
 let's go!
 
 # EXAMPLE
-$ ./show_git_names.sh
+`$ ./show_git_names.sh`
+
 Mark Rogov => themadrussian
 
 
