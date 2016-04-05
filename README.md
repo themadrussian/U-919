@@ -3,7 +3,7 @@ The pupose of this project is to teach everyone GitHub
 
 We will write a script in any language you choose that will display the team's GitHub usernames.
 For that everyone will need to edit the file:
-RUT-names.txt
+`RUT-names.txt`
 
 And insert their Name, email, and github username in the following format:
 
