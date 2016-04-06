@@ -6,7 +6,7 @@ then
 	exit 1
 fi
 
-for line in $(cat RUT-names.txt)
+for line in $(cat U-919-names.txt)
 do
 	fname=$(echo $line | cut -d, -f1)
   lname=$(echo $line | cut -d, -f2)
