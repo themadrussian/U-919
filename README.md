@@ -1,8 +1,8 @@
 # U-919
 
-## We can go deeper
+# "We can go deeper"(tm)
 
-### EMC Raleigh Undeground Team
+## EMC Raleigh Undeground Team
 The pupose of this project is to teach everyone GitHub
 
 We will write a script in any language you choose that will display the team's GitHub usernames.
