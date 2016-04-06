@@ -1,6 +1,6 @@
 # U-919
 
-# "We can go deeper"(tm)
+# We can go deeper (tm)
 
 ## EMC Raleigh Undeground Team
 The pupose of this project is to teach everyone GitHub
