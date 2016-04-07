@@ -26,15 +26,11 @@ To join, one must go through these steps:
     * push the change back to github (aka SYNC in the GUI)
 5. Wait for one of us to contact you, if you passed.
 
-## `U-919-names.txt` Syntax
-
-And insert their Name, email, and github username in the following format:
-
+## `U-919-names.txt` Syntax (Simple CSV)
 FirstName, LastName, Email, gitusername
 
 ## a script
-a script will read the U-919-names.txt and display the contents
-
+A script will read the U-919-names.txt and display the contents.
 let's go!
 
 ## EXAMPLE
