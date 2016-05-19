@@ -3,3 +3,4 @@ Anthony,Chie-For,anthony.chie-for@emc.com,achiefor
 Luis,Marin,luis.marin@emc.com,marinl
 Mike,Wooten,mike.wooten@emc.com,EMCWoot
 Rocky,Tutor,rocky.tutor@emc.com,tutorr
+Dutta,Sayak,sayak.dutta@emc.com,sayakd
